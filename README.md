@@ -2,9 +2,11 @@
 ## Curso: Métodos Cuantitativos para la Administración Pública
 
 
-1. Presentación: 
-  a. [Ver Presentación en línea](https://cristobal-mejias-g.github.io/Clase-2-MC-FAGOB/ay2_presentacion.html)
-  b. [Ver Presentación PDF](https://github.com/Cristobal-Mejias-G/Clase-2-MC-FAGOB/blob/main/Clase-2-MC-FAGOB.pdf)
+Presentación:
+
+[Ver Presentación en línea](https://cristobal-mejias-g.github.io/Clase-2-MC-FAGOB/ay2_presentacion.html)
+
+[Ver Presentación PDF](https://github.com/Cristobal-Mejias-G/Clase-2-MC-FAGOB/blob/main/Clase-2-MC-FAGOB.pdf)
 
 Script: [Ver Script](https://github.com/Cristobal-Mejias-G/Clase-2-MC-FAGOB/blob/main/codigo_ay2.R).
 
