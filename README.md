@@ -1,5 +1,6 @@
 # Ayúdantía 2: Procesamiento de datos con tidyverse
-## Curso: Métodos Cuantitativos para la Administración Pública
+## Curso: Métodos Cuantitativos para la Administración Pública. Profesor: Carlos Budnevich
+### Ayudante: Cristóbal Mejías
 
 
 Presentación:
