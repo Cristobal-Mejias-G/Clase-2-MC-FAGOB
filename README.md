@@ -15,4 +15,6 @@ Script:
 
 Datos utilizados: 
 
-[Base de datos](https://raw.githubusercontent.com/Cristobal-Mejias-G/Clase-2-MC-FAGOB/main/input/casen_fagob.dta)
+[Base de datos](https://raw.githubusercontent.com/Cristobal-Mejias-G/Clase-2-MC-FAGOB/blob/main/input/casen_fagob.dta)
+
+
